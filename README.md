@@ -1,2 +1,2 @@
 # test
-this is shopping project
+this is shopping project.
